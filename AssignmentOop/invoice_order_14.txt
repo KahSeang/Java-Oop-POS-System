@@ -1,0 +1,7 @@
+
+						=================================
+						Invoice Details for Order ID: 14
+						=================================
+						Item ID: 7 | Quantity: 1 | Unit Price: RM 100.0 | Total: RM 100.0
+
+						Total Amount: RM 100.00

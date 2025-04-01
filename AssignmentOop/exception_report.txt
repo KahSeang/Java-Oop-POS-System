@@ -1,0 +1,29 @@
+=================================
+          Exception Report (Low/Max Stock Levels)
+=================================
+
+Item ID: 2
+Item Name: T-shirt
+Category: Topwear
+Quantity: 201
+Price: 15.00
+*** Alert: Excess Stock ***
+---------------------------------
+Item ID: 3
+Item Name: Jacket
+Category: Outerwear
+Quantity: 406
+Price: 60.00
+*** Alert: Excess Stock ***
+---------------------------------
+Item ID: 7
+Item Name: Coat
+Category: Outerwear
+Quantity: 40
+Price: 100.00
+*** Alert: Critical Low Stock ***
+---------------------------------
+
+=================================
+        End of Exception Report (Low/Max Stock Levels)
+=================================

@@ -1,0 +1,10 @@
+1,Jeans,Bottomwear,100,30.00
+2,T-shirt,Topwear,200,15.00
+3,Jacket,Outerwear,50,60.00
+4,Sweater,Knitwear,80,40.00
+5,Skirt,Bottomwear,70,25.00
+6,Blouse,Topwear,120,20.00
+7,Coat,Outerwear,40,100.00
+8,Cardigan,Knitwear,60,35.00
+9,Shorts,Bottomwear,90,20.00
+10,Shirt,Topwear,150,25.00

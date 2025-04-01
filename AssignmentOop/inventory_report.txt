@@ -1,0 +1,68 @@
+=================================
+          Inventory Stock Levels Report
+=================================
+
+Item ID: 1
+Item Name: Jeans
+Category: Bottomwear
+Quantity: 98
+Price: 30.00
+---------------------------------
+Item ID: 2
+Item Name: T-shirt
+Category: Topwear
+Quantity: 201
+Price: 15.00
+---------------------------------
+Item ID: 3
+Item Name: Jacket
+Category: Outerwear
+Quantity: 407
+Price: 60.00
+---------------------------------
+Item ID: 4
+Item Name: Sweater
+Category: Knitwear
+Quantity: 130
+Price: 40.00
+---------------------------------
+Item ID: 5
+Item Name: Skirt
+Category: Bottomwear
+Quantity: 70
+Price: 25.00
+---------------------------------
+Item ID: 6
+Item Name: Bouse
+Category: Topwear
+Quantity: 120
+Price: 20.00
+---------------------------------
+Item ID: 7
+Item Name: Coat
+Category: Outerwear
+Quantity: 40
+Price: 100.00
+---------------------------------
+Item ID: 8
+Item Name: Cardigan
+Category: Knitwear
+Quantity: 60
+Price: 35.00
+---------------------------------
+Item ID: 9
+Item Name: Shorts
+Category: Bottomwear
+Quantity: 90
+Price: 20.00
+---------------------------------
+Item ID: 10
+Item Name: Shirt
+Category: Topwear
+Quantity: 150
+Price: 25.00
+---------------------------------
+
+=================================
+        End of Inventory Stock Levels Report
+=================================

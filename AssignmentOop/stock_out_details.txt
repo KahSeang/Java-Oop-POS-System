@@ -1,0 +1,9 @@
+3,1000,a,Fri Aug 16 16:08:57 MYT 2024
+3,100,buy,Fri Aug 16 16:09:29 MYT 2024
+2,2,a,Wed Aug 21 16:07:07 MYT 2024
+2,1,sales,Mon Aug 26 18:56:19 MYT 2024
+1,10,buy from we\ng kang,Tue Aug 27 00:26:52 MYT 2024
+1,1,k,Tue Aug 27 15:56:32 MYT 2024
+2,10,ramark,Wed Aug 28 15:49:57 MYT 2024
+2,10,hj,Tue Sep 03 13:38:29 MYT 2024
+1,1,,Thu Sep 05 12:30:17 MYT 2024

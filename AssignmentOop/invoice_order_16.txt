@@ -1,0 +1,10 @@
+
+						=================================
+						Invoice Details for Order ID: 16
+						=================================
+						Supplier Information: Supplier ID: 2 | Name: Best Supplies | Contact: best@example.com
+						User Information: Unknown User
+						=================================
+						Item ID: 7 | Quantity: 1 | Unit Price: RM 100.0 | Total: RM 100.0
+
+						Total Amount: RM 100.00

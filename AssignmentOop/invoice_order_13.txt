@@ -1,0 +1,7 @@
+
+						=================================
+						Invoice Details for Order ID: 13
+						=================================
+						Item ID: 3 | Quantity: 111 | Unit Price: RM 60.0 | Total: RM 6660.0
+
+						Total Amount: RM 6660.00
